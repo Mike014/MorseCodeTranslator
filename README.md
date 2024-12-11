@@ -13,7 +13,7 @@ Here’s a screenshot of the app in action:
 
 ![Simulator Screenshot](Simulator%20Screenshot%20-%20iPhone%20SE%20(3rd%20generation)%20-%202024-12-11%20at%2023.59.59.png)
 
-![Simulator Screenshot](Simulator%20Screenshot%20-%20iPhone%20SE%20(3rd %20generation)%20-%202024-12-11 at 23.59.35.png)
+![Simulator Screenshot](Simulator%20Screenshot%20-%20iPhone%20SE%20(3rd%20generation)%20-%202024-12-11%20at%2023.59.35.png)
 
 ## Requirements
 - **iOS 14.0** or later.
