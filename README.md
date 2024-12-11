@@ -28,12 +28,3 @@ Here’s a screenshot of the app in action:
 2. Open the .xcodeproj file in Xcode.
 3. Run the app on a simulator or a real device.
 
-### **Details**
-1. **Clear title**: Highlights the project’s name.
-2. **Concise description**: Explains the purpose of the app.
-3. **Features**: Lists the app’s main functionalities.
-4. **Screenshot**: Includes a visual example of the app in use.
-5. **Requirements**: Details the software versions needed.
-6. **Instructions**: Provides a simple guide to get started.
-7. **Contributions**: Encourages collaboration.
-
